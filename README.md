@@ -16,4 +16,6 @@ npm run dev
 
 npm run start
 
-### URL of appliocation
+### URL of application
+
+https://atyagi4-chat-app.herokuapp.com/
