@@ -1,4 +1,4 @@
-### Chat App-version 1.0
+### Real Time Chat Application-version 1.0
 
 ### To initial the npm modules
 
